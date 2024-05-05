@@ -61,7 +61,7 @@ function App() {
 
     return (
         <div className="App">
-            <h1>Prueba técnica</h1>
+            <h1>Lista de usuarios</h1>
             <Results />
             <header>
                 <button onClick={toggleColors}>
